@@ -5,8 +5,19 @@ Tiene un banner con un texto y una imagen. En el contenido de la pagina hay una 
 
 # Tecnologias usadas:
 
-  + Html
-  + Css
+  + Html5
+  + Css3
   + Sass
+  + Git
 
-Autor: Steven Cardona Betancur
+### Pagina En Desktop
+![image](https://user-images.githubusercontent.com/66984715/147139009-17ce2486-7d5c-4434-81b9-a95fae0e9374.jpeg)
+![image](https://user-images.githubusercontent.com/66984715/147139014-06703df3-6efb-4381-a967-d499a3ff0708.jpeg)
+![image](https://user-images.githubusercontent.com/66984715/147139016-40ce32ce-5080-4427-9622-a10c48f61422.jpeg)
+
+### Pagina En Mobil
+![image](https://user-images.githubusercontent.com/66984715/147139017-9d990fde-962b-4366-8257-3a4fac76ff70.jpeg)
+![image](https://user-images.githubusercontent.com/66984715/147139019-1aebc0c0-09be-4edc-8771-d32188502d36.jpeg)
+
+
+### Autor: Steven Cardona Betancur
